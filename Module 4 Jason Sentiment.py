@@ -184,7 +184,7 @@ nlp = spacy.load('en_core_web_sm')
 # #All tasks perfomed on a while if loop
 # #This initial section is setting up the loop parameters to start the search base on the user request.
 
-# In[100]:
+# In[102]:
 
 
 i =0
@@ -197,7 +197,7 @@ n = int(input())
 # #All tasks perfomed on a while if loop, at the end of the iteration, loop will stop and provide a message to the user. 
 # #This section perform the searchm storing and printing in a loop.
 
-# In[101]:
+# In[103]:
 
 
 while i < n:
